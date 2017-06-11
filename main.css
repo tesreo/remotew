@@ -16,6 +16,9 @@ a{
 	text-decoration: none;
 	color: #F37E2F;
 }
+p{
+	line-height: 2;
+}
 .del{
 	text-decoration: line-through;
 	color: #999;
