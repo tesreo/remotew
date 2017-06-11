@@ -12,6 +12,10 @@ span{
 	font-size: 10px;
 	color: #999;
 }
+a{
+	text-decoration: none;
+	color: #F37E2F;
+}
 .del{
 	text-decoration: line-through;
 	color: #999;
