@@ -1,0 +1,14 @@
+body{
+	margin: 40px;
+	font-family: 'Ubuntu',PingFang SC,Helvetica,Arial,sans-serif;
+}
+h1,h2,h3,h4,h5,h6,p,a,li{
+	font-weight: 400;
+}
+li{
+	margin: 8px auto;
+}
+span{
+	font-size: 10px;
+	color: #999;
+}
